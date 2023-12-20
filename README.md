@@ -2,17 +2,17 @@
 
 # golang-htmx-experiment
 
-This repository is dedicated to exploring the combination of GOlang with htmx for dynamic web applications.
+This repository is dedicated to exploring the combination of Golang with htmx for dynamic web applications.
 
 ## Overview
 
-This repository contains code samples and tests demonstrating the integration of GOlang and htmx. The goal is to explore the potential of this combination in building responsive web apps.
+This repository contains code samples and tests demonstrating the integration of Golang and htmx. The goal is to explore the potential of this combination in building responsive web apps.
 
 ## Setup
 
 ### Prerequisites
 
-- **GOlang**: Ensure GOlang is installed on your machine. If not, download it from [here](https://golang.org/).
+- **GOlang**: Ensure Golang is installed on your machine. If not, download it from [here](https://golang.org/).
 
 ### Getting Started
 
