@@ -1,3 +1,5 @@
+![Banner](images/banner.webp)
+
 # golang-htmx-experiment
 
 This repository is dedicated to exploring the combination of GOlang with htmx for dynamic web applications.
