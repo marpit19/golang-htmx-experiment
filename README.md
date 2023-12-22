@@ -6,7 +6,7 @@ This repository is dedicated to exploring the combination of Golang with htmx fo
 
 ## Overview
 
-This repository contains code samples and tests demonstrating the integration of Golang and htmx. The goal is to explore the potential of this combination in building responsive web apps.
+This repository contains a simple anime page made using htmx and golang. I was just experimenting with htmx and golang so made this repo.
 
 ## Setup
 
